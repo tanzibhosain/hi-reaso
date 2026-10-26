@@ -1,1 +1,3 @@
-This is the initial repo for the EMNLP Findings '26 paper "HI-REASO: A Multi-Level Multi-Faceted Hindi Integral Evaluation Suite for Foundation Models".
+## HI-REASO: A Multi-Level Multi-Faceted Hindi Mathematical Evaluation Suite For Foundation Models
+
+This is the initial repository for [HI-REASO: A Multi-Level Multi-Faceted Hindi Mathematical Evaluation Suite For Foundation Models](https://aclanthology.org/2026.findings-emnlp.481/) by [Md Tanzib Hosain](https://scholar.google.com/citations?user=3YexY9gAAAAJ&view_op=list_works&sortby=pubdate), [Rajan Das Gupta](https://scholar.google.com/citations?user=ipE0E-8AAAAJ), [Zannatul Ferdous Tripty](), and [Md Kishor Morol](https://scholar.google.com/citations?user=pjn3jg4AAAAJ) (Findings of EMNLP 2026).
